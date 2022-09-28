@@ -8,6 +8,7 @@ Curated list for people choosing UI/UX as a field in Tech
 * [Design Thinking](#design-thinking)
 * [Information Architecture](#information-architecture)
 * [User Testing and Heuristics Evaluation](#user-testing-and-heuristics-evaluation)
+* [Learn from others by ansh mehra](#learn-from-others-by-ansh-mehra)
 
 ##### Designers to Follow
 * Ademola Adekanbi: [Twitter](https://twitter.com/adekanbi_rex)
@@ -734,3 +735,34 @@ Design critique guide
 | Chris Do   |https://thefutur.com/team/chris-do               | CEO, TheFutur | [@theChrisDo](https://twitter.com/theChrisDo)     |
 | Namnso Ukpanah    | https://www.linkedin.com/in/namnsoukpanah/        | Figma Africa (Community lead) | [@namnsoukpanah](https://twitter.com/namnsoukpanah)     |
 
+### Learn from others by ansh mehra
+
+https://www.whiteboard.fm/
+https://developer.apple.com/design/human-interface-guidelines/patterns/overview
+https://www.whiteboard.fm/interviews
+https://start.uxdesign.cc/
+https://uxmasterclass.design/
+https://learnmobile.design/
+https://www.uxpin.com/studio/blog/13-useful-ui-design-articles-ux-practitioners
+https://uilearn.com/blog/
+https://growth.design/
+https://uxdesign.cc/the-ultimate-figma-resource-archive-2021-525f16d32f7a
+https://www.checklist.design/
+https://www.bookmarks.design/
+https://www.microcopy.me/
+https://www.designsystems.com/
+https://designsystemsrepo.com/design-systems/
+https://component.gallery/design-systems/
+https://medium.com/@jimmyaguilar/design-resources-ui-section-1b41bb6f2d9d
+https://heydesign.systems/
+https://uxdesign.cc/47-key-lessons-for-ui-ux-designers-3cb296c1945b
+https://indecisive-composer-2b4.notion.site/Learn-UX-UI-Design-for-free-Curated-by-Ansh-Mehra-77ae8151a5cd43028fac02b630340de9
+https://www.youtube.com/channel/UCZknyXD-6tETm9aN8GQCi8g
+https://www.animaapp.com/use-cases/build-a-website
+https://identid.me/
+https://www.bestfolios.com/home
+https://portfolio.adobe.com/
+https://animockup.com/
+https://mockoops.mohitya.dev/
+https://mobbin.com/browse/ios/apps
+https://pitch.com/
